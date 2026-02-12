@@ -1,0 +1,7 @@
+data/
+mysql/
+*/db/
+*/__pycache__/
+*.sqlite3
+*.log
+.env
